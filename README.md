@@ -1,6 +1,7 @@
 # Sythesis
 
 A web application built on react using the cleverbot API and voice sythesis API to allow you to talk to the bot in realtime. 
+Hosted on Firebase at: https://sythesis-fc547.web.app/
 
 # Useage 
 
